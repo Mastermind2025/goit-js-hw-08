@@ -48,7 +48,7 @@ function favorite(e) {
             refs.textarea.value = parsedInfo.message;
         }
     }
-    
+//    console.log()
 
 
 }
